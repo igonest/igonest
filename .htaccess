@@ -1,3 +1,3 @@
-<FilesMatch "../Fonts/*.(eot|ttf|otf|woff)">
+<FilesMatch "../Fonts/FontAwesome.otf">
 	Header set Access-Control-Allow-Origin "*"
 </FilesMatch>
